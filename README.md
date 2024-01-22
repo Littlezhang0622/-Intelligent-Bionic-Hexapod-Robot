@@ -1,1 +1,1 @@
-# -Intelligent-Bionic-Hexapod-Robot
+# Intelligent-Bionic-Hexapod-Robot
